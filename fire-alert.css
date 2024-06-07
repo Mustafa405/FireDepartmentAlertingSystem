@@ -1,0 +1,48 @@
+header
+{
+    background-color: rgb(73, 106, 255);
+    text-align: center;
+    height:80px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+main
+{
+    color: azure;
+    background-color: hsl(0, 0%, 0%);
+}
+body{
+    background-color: hsl(0, 0%, 0%);
+}
+.title
+{
+    color: rgb(12, 9, 9);
+    background-color: indianred;
+}
+#code
+{
+    font-size:smaller;
+    font-family: monospace;
+    font-style: italic;
+}
+.image
+{
+    border:2px solid white;
+    border-radius: 10px;
+    margin-top:10px;
+    display:block;
+}
+footer
+{
+    background-color: rgb(73, 106, 255);
+    color: black;
+    border-radius: 10px;
+}
+#thankyou
+{
+    margin-top:10px;
+}
+#circuit
+{
+    border-radius: 10px;
+}
